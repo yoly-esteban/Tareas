@@ -1,0 +1,1 @@
+Para dar solución a la tarea de la Unidad 2 se procedio a aplicar sentencias condicionales para poder validar que el ingreso que el usuario hiciera con respecto al mes pudiera darnos como resultado la estación a la cual pertenece.
